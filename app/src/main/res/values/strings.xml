@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MeliApp</string>
+    <string name="search">Buscar</string>
+    <string name="title">Title</string>
+    <string name="image">Image</string>
+    <string name="price">Price</string>
+    <string name="currency">$</string>
+    <string name="available_quantity">Avalaible quantity</string>
+    <string name="stock_disponible">Stock disponible</string>
+    <string name="sold_quantity">Sold quantity</string>
+    <string name="cantidad_vendida">Cantidad vendida</string>
+    <string name="city">City</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="state">State</string>
+    <string name="provincia">Provincia</string>
+    <string name="shipping">Shipping</string>
+    <string name="accepts_mercadopago">Acepta Mercadopago</string>
+    <string name="not_accepts_mercadopago">No Acepta Mercadopago</string>
+    <string name="free_shipping">Envio gratis</string>
+    <string name="not_free_shipping">Sin envio gratis</string>
+    <string name="installments">cuotas de</string>
+    <string name="rate">Rate</string>
+    <string name="amount">Amount</string>
+    <string name="installments_quantity">#</string>
+    <string name="result_number">number</string>
+    <string name="condition">Condition</string>
+    <string name="condition_new">Nuevo</string>
+    <string name="condition_used">Usado</string>
+</resources>
